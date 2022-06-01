@@ -1,0 +1,8 @@
+Source: Bill-Theme
+Priority: optional
+Maintainer: Luis Guerra
+Version: 0.1
+Essential: no
+Package: Bill-Theme
+Architecture: all
+Description: Fluent design GTK and Cinnamon theme.
