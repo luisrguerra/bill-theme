@@ -718,7 +718,9 @@ StScrollBar {
 .calendar-today-home-button-enabled {
   padding: 6px; }
   .calendar-today-home-button-enabled:hover {
-    background-color: #0167D5; }
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 2px; 
+  }
     .calendar-today-home-button-enabled:hover .calendar-today-day-label {
       color: #ffffff; }
     .calendar-today-home-button-enabled:hover .calendar-today-date-label {
